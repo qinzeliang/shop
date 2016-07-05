@@ -1,3 +1,4 @@
 <?php 
 	echo "ÄãºÃ,ÕâÊÇGIT";
+	echo "this is new info "£»
 ?>
